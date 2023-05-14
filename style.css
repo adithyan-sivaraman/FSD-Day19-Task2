@@ -1,0 +1,280 @@
+@media (max-width: 575px) {
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 22px;
+    }
+
+    span {
+        font-weight: 500;
+        margin-top: 5px;
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 16px;
+    }
+
+    p {
+        margin-top: 10px !important;
+        font-size: 16px;
+    }
+    .table{
+        width: 95% !important;
+        margin-top: 20px;
+    }
+    input {
+        margin-top: 20px;
+        width: 50%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 576px) {
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 24px;
+    }
+
+    span {
+        font-weight: 500;
+        margin-top: 5px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 18px;
+    }
+
+    p {
+        margin-top: 10px !important;
+        font-size: 18px;
+    }
+    .table{
+        width: 95% !important;
+        margin-top: 20px;
+    }
+    input {
+        margin-top: 20px;
+        width: 50%;
+        font-size: 18px;
+    }
+}
+
+
+@media (min-width: 768px) {
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 26px;
+    }
+
+    span {
+        font-weight: 500;
+        margin-top: 5px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 20px;
+    }
+
+    p {
+        margin-top: 10px !important;
+        font-size: 20px;
+    }
+    .table{
+        width: 95% !important;
+        margin-top: 20px;
+    }
+    input {
+        margin-top: 20px;
+        width: 40%;
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 992px) {
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 28px;
+    }
+
+    span {
+        font-weight: 500;
+        margin-top: 5px;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 22px;
+    }
+
+    p {
+        margin-top: 10px !important;
+        font-size: 22px;
+    }
+    .table{
+        width: 95% !important;
+        margin-top: 20px;
+    }
+    input {
+        margin-top: 20px;
+        width: 35%;
+        font-size: 22px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 30px;
+    }
+
+    span {
+        font-weight: 500;
+        margin-top: 5px;
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 24px;
+    }
+
+    p {
+        margin-top: 10px !important;
+        font-size: 24px;
+    }
+    .table{
+        width: 95% !important;
+        margin-top: 20px;
+    }
+    input {
+        margin-top: 20px;
+        width: 35%;
+        font-size: 24px;
+    }
+}
+
+
+@media (min-width: 1400px) {
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 32px;
+    }
+
+    span {
+        font-weight: 500;
+        margin-top: 5px;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font: size 26px;
+    }
+
+    p {
+        margin-top: 10px !important;
+        font: size 26px
+    }
+    .table{
+        width: 95% !important;
+        margin-top: 20px;
+    }
+    input {
+        margin-top: 20px;
+        width: 30%;
+        font: size 26px
+    }
+
+}
